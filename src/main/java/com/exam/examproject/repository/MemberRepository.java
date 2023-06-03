@@ -1,6 +1,6 @@
-package repository;
+package com.exam.examproject.repository;
 
-import Dto.Member;
+import com.exam.examproject.Dto.Member;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

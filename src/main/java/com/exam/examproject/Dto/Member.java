@@ -1,4 +1,4 @@
-package Dto;
+package com.exam.examproject.Dto;
 
 import jakarta.persistence.*;
 import lombok.*;
